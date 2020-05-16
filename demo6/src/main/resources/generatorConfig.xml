@@ -72,6 +72,18 @@
         <table   tableName="persons" domainObjectName="Persons" >
 
         </table>
+        <table   tableName="dormitory1" domainObjectName="Dormitory1" >
+
+        </table>
+        <table   tableName="nodee" domainObjectName="Nodee" >
+
+        </table>
+        <table   tableName="node" domainObjectName="Node" >
+
+        </table>
+        <table   tableName="edge" domainObjectName="Edge" >
+
+        </table>
     </context>
 
 </generatorConfiguration>
